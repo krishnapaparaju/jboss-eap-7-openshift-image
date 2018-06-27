@@ -19,3 +19,4 @@ script:
   - docker images  
   - find . -name pom.xml -print
   - curl -v google.com  
+  
